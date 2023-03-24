@@ -10,20 +10,19 @@
 
 <h3>DEMO TEMPLATE</h3>
 <ul>
-    <li><a href="https://codingersid.github.io/apartment-invoice.github.io/invoice-electricity-and-water/index.html" target="_blank">Electricity And Water Invoice</a></li>
-    <li><a href="https://codingersid.github.io/apartment-invoice.github.io/invoice-maintenance_building-and-sinking_fund/index.html" target="_blank">Maintenance Building And Sinking Fund Invoice</a></li>
+    <li><a href="https://codingersid.github.io/apartment-invoice.github.io/" target="_blank">PREVIEW</a></li>
 </ul>
 
 <hr>
 
 <h3>TENTANG CODINGERS.ID</h3>
 <ol>
-    <li>Kursus IT Online dan Offline</li>
-    <li>Sewa Hosting dan Domain</li>
-    <li>Seminar dan Pelatihan IT</li>
-    <li>Jasa Pembuatan Aplikasi</li>
-    <li>Jasa Bimbingan Kuliah dan Skripsi</li>
-    <li>Content Creator Web Developer</li>
+    <li>✅Kursus IT Online dan Offline</li>
+    <li>✅Sewa Hosting dan Domain</li>
+    <li>✅Seminar dan Pelatihan IT</li>
+    <li>✅Jasa Pembuatan Aplikasi</li>
+    <li>✅Jasa Bimbingan Kuliah dan Skripsi</li>
+    <li>✅Content Creator Programming</li>
 </ol>
 
 <h3>TEKNOLOGI YANG KAMI GUNAKAN</h3>
@@ -34,7 +33,7 @@
     <li>Design: Adobe Xd | Illustrator | Photoshop | Figma</li>
 </ol>
 
-<h3>REQUEST TEMPLATE</h3>
+<h3>REQUEST TEMPLATE?</h3>
 <p>Anda Bisa Request Template dengan Mengubungi Kami Melalui DM Instagram atau Chat WA Kami pada Webite CODINGERS.ID</p>
 
 <h3 align="center">FOLLOW AKUN KAMI</h3>
