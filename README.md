@@ -2,10 +2,10 @@
 <h2>Ini Adalah Contoh Template Invoice Untuk Apartemen</h2>
 
 <h3>DEMO TEMPLATE</h3>
-<ol>
+<ul>
     <li><a href="https://codingersid.github.io/apartment-invoice.github.io/invoice-electricity-and-water/index.html" target="_blank">Electricity And Water Invoice</a></li>
     <li><a href="https://codingersid.github.io/apartment-invoice.github.io/invoice-maintenance_building-and-sinking_fund/index.html" target="_blank">Maintenance Building And Sinking Fund Invoice</a></li>
-</ol>
+</ul>
 
 <h3>TENTANG CODINGERS.ID</h3>
 <ol>
@@ -28,12 +28,10 @@
 <h3>REQUEST TEMPLATE</h3>
 <p>Anda Bisa Request Template dengan Mengubungi Kami Melalui DM Instagram atau Chat WA Kami pada Webite CODINGERS.ID</p>
 
-<h3> 🤝🏻 Connect with Me </h3>
-
+<h3 align="center">FOLLOW AKUN KAMI</h3>
 <p align="center">
 <a href="https://www.instagram.com/codingers.id/" target="_blank" rel="noopener noreferrer">INSTAGRAM</a>
 &nbsp;|&nbsp;<a href="https://www.facebook.com/codingers.id" target="_blank" rel="noopener noreferrer">FACEBOOK</a>
 &nbsp;|&nbsp;<a href="https://codingers.id/" target="_blank" rel="noopener noreferrer">WEBSITE</a>
+&nbsp;|&nbsp;<a href="https://github.com/codingersid/" target="_blank" rel="noopener noreferrer">GITHUB</a>
 </p>
-
-[GITHUB CODINGERS.ID](https://github.com/codingersid)
