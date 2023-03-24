@@ -1,5 +1,12 @@
 <h1>APARTMENT INVOICE TEMPLATE</h1>
 <h2>Ini Adalah Contoh Template Invoice Untuk Apartemen</h2>
+<p>Template ini kami buat untuk pengembangan website, jika anda membutuhkan template ini, silahkan ada unduh secara gratis. Template ini kami bangun dengan:
+<ul>
+    <li>HTML</li>
+    <li><a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/index.html" target="_blank">Bootstrap 5</a></li>
+    <li>CSS 3</li>
+</ul>
+</p>
 
 <h3>DEMO TEMPLATE</h3>
 <ul>
@@ -7,22 +14,24 @@
     <li><a href="https://codingersid.github.io/apartment-invoice.github.io/invoice-maintenance_building-and-sinking_fund/index.html" target="_blank">Maintenance Building And Sinking Fund Invoice</a></li>
 </ul>
 
+<hr>
+
 <h3>TENTANG CODINGERS.ID</h3>
 <ol>
-    <li>👉&nbsp;Kursus IT Online dan Offline</li>
-    <li>👉&nbsp;Sewa Hosting dan Domain</li>
-    <li>👉&nbsp;Seminar dan Pelatihan IT</li>
-    <li>👉&nbsp;Jasa Pembuatan Aplikasi</li>
-    <li>👉&nbsp;Jasa Bimbingan Kuliah dan Skripsi</li>
-    <li>👉&nbsp;Content Creator Web Developer</li>
+    <li>Kursus IT Online dan Offline</li>
+    <li>Sewa Hosting dan Domain</li>
+    <li>Seminar dan Pelatihan IT</li>
+    <li>Jasa Pembuatan Aplikasi</li>
+    <li>Jasa Bimbingan Kuliah dan Skripsi</li>
+    <li>Content Creator Web Developer</li>
 </ol>
 
-<h3>TEKNOLOGI</h3>
+<h3>TEKNOLOGI YANG KAMI GUNAKAN</h3>
 <ol>
-    <li>👉&nbsp;Bahas Pemrograman: PHP | Python | JavaScript | C++ | HTML | Delphi | Go</li>
-    <li>👉&nbsp;Database: MySQL | SQL Server | Postgresql | MariaDB</li>
-    <li>👉&nbsp;Framework: Laravel | Bootstrap | Tailwind | Materialize</li>
-    <li>👉&nbsp;Design: Adobe Xd | Illustrator | Photoshop | Figma</li>
+    <li>Bahas Pemrograman: PHP | Python | JavaScript | C++ | HTML | Delphi | Go</li>
+    <li>Database: MySQL | SQL Server | Postgresql | MariaDB</li>
+    <li>Framework: Laravel | Bootstrap | Tailwind | Materialize</li>
+    <li>Design: Adobe Xd | Illustrator | Photoshop | Figma</li>
 </ol>
 
 <h3>REQUEST TEMPLATE</h3>
