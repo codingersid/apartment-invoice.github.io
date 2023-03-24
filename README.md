@@ -17,12 +17,12 @@
 
 <h3>TENTANG CODINGERS.ID</h3>
 <ul>
-    <li>✅Kursus IT Online dan Offline</li>
-    <li>✅Sewa Hosting dan Domain</li>
-    <li>✅Seminar dan Pelatihan IT</li>
-    <li>✅Jasa Pembuatan Aplikasi</li>
-    <li>✅Jasa Bimbingan Kuliah dan Skripsi</li>
-    <li>✅Content Creator Programming</li>
+    <li>✅&nbsp;Kursus IT Online dan Offline</li>
+    <li>✅&nbsp;Sewa Hosting dan Domain</li>
+    <li>✅&nbsp;Seminar dan Pelatihan IT</li>
+    <li>✅&nbsp;Jasa Pembuatan Aplikasi</li>
+    <li>✅&nbsp;Jasa Bimbingan Kuliah dan Skripsi</li>
+    <li>✅&nbsp;Content Creator Programming</li>
 </ul>
 
 <h3>TEKNOLOGI YANG KAMI GUNAKAN</h3>
