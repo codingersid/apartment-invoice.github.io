@@ -16,22 +16,22 @@
 <hr>
 
 <h3>TENTANG CODINGERS.ID</h3>
-<ol>
+<ul>
     <li>✅Kursus IT Online dan Offline</li>
     <li>✅Sewa Hosting dan Domain</li>
     <li>✅Seminar dan Pelatihan IT</li>
     <li>✅Jasa Pembuatan Aplikasi</li>
     <li>✅Jasa Bimbingan Kuliah dan Skripsi</li>
     <li>✅Content Creator Programming</li>
-</ol>
+</ul>
 
 <h3>TEKNOLOGI YANG KAMI GUNAKAN</h3>
-<ol>
+<ul>
     <li>Bahas Pemrograman: PHP | Python | JavaScript | C++ | HTML | Delphi | Go</li>
     <li>Database: MySQL | SQL Server | Postgresql | MariaDB</li>
     <li>Framework: Laravel | Bootstrap | Tailwind | Materialize</li>
     <li>Design: Adobe Xd | Illustrator | Photoshop | Figma</li>
-</ol>
+</ul>
 
 <h3>REQUEST TEMPLATE?</h3>
 <p>Anda Bisa Request Template dengan Mengubungi Kami Melalui DM Instagram atau Chat WA Kami pada Webite CODINGERS.ID</p>
